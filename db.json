@@ -58,6 +58,16 @@
       }
     ],
     "calendar": [
+        {
+        "id": 29,
+        "description": [],
+        "accomodationCity": "PL"
+        },
+        {
+        "id": 30,
+        "description": [],
+        "accomodationCity": "PL"
+        },
       {
         "id": 2,
         "description": [],
