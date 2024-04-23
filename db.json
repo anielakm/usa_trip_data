@@ -1,0 +1,167 @@
+{
+    "points": [
+      {
+        "id": 1,
+        "lat": 40.68937139934087,
+        "lng": -74.04441457149139,
+        "name": "Statua Wolności",
+        "category": "Zwiedzanie",
+        "city": "NY",
+        "details": "",
+        "priceUSD": 10,
+        "isChoosen": true,
+        "isVisited": false,
+        "addToCosts": true
+      },
+      {
+        "id": 2,
+        "lat": 40.749714738063254,
+        "lng": -73.98571042200591,
+        "name": "Empire State Building",
+        "category": "Zwiedzanie",
+        "city": "NY",
+        "details": "",
+        "priceUSD": 0,
+        "isChoosen": false,
+        "isVisited": false,
+        "addToCosts": false
+      },
+      {
+        "id": 3,
+        "lat": 40.78341920195827,
+        "lng": -73.96558677781792,
+        "name": "Central Park",
+        "category": "Zwiedzanie",
+        "city": "NY",
+        "details": "",
+        "priceUSD": 0,
+        "isChoosen": false,
+        "isVisited": false,
+        "addToCosts": false
+      }
+    ],
+    "costs": [
+      {
+        "id": 1,
+        "pricePLN": 8938.32,
+        "category": "Transport",
+        "description": "Bilety na samolot Pl-USA",
+        "whoPaid": "Rozliczone"
+      },
+      {
+        "id": 2,
+        "pricePLN": 1234,
+        "priceUSD": 0,
+        "category": "Zwiedzanie",
+        "description": "asd",
+        "whoPaid": "Rozliczone"
+      }
+    ],
+    "calendar": [
+      {
+        "id": 2,
+        "description": [],
+        "accomodationCity": "NY"
+      },
+      {
+        "id": 3,
+        "description": [],
+        "accomodationCity": "NY"
+      },
+      {
+        "id": 4,
+        "description": [],
+        "accomodationCity": "NY"
+      },
+      {
+        "id": 5,
+        "description": [],
+        "accomodationCity": "NY"
+      },
+      {
+        "id": 6,
+        "description": [],
+        "accomodationCity": "test"
+      },
+      {
+        "id": 7,
+        "description": [],
+        "accomodationCity": "Waszyngton"
+      },
+      {
+        "id": 8,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 9,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 10,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 11,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 12,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 13,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 14,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 15,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 16,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 17,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 18,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 19,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 20,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 21,
+        "description": [],
+        "accomodationCity": "Miami"
+      },
+      {
+        "id": 22,
+        "description": [],
+        "accomodationCity": "Miami"
+      }
+    ]
+  }
