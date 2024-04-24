@@ -61,121 +61,168 @@
         {
         "id": 29,
         "description": [],
+        "links": [],
         "accomodationCity": "PL"
         },
         {
         "id": 30,
         "description": [],
+        "links": [],
+
         "accomodationCity": "PL"
         },
         {
             "id": 1,
             "description": [],
+        "links": [],
+
             "accomodationCity": "PL"
           },
       {
         "id": 2,
         "description": [],
+        "links": [],
+
         "accomodationCity": "NY"
       },
       {
         "id": 3,
         "description": [],
+        "links": [],
+
         "accomodationCity": "NY"
       },
       {
         "id": 4,
         "description": [],
+        "links": [],
+
         "accomodationCity": "NY"
       },
       {
         "id": 5,
         "description": [],
+        "links": [],
+
         "accomodationCity": "NY"
       },
       {
         "id": 6,
         "description": [],
+        "links": [],
+
         "accomodationCity": "test"
       },
       {
         "id": 7,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Waszyngton"
       },
       {
         "id": 8,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 9,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 10,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 11,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 12,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 13,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 14,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 15,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 16,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 17,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 18,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 19,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 20,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 21,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       },
       {
         "id": 22,
         "description": [],
+        "links": [],
+
         "accomodationCity": "Miami"
       }
     ]
